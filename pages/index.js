@@ -1,7 +1,7 @@
 import Project from "../components/project";
 import { projects } from "../data/projects";
-import Work from "../components/Work";
-import { work } from "../data/work";
+// import Work from "../components/Work";
+// import { work } from "../data/work";
 
 export default function Home() {
   return (
