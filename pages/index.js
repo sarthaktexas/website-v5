@@ -29,7 +29,7 @@ export default function Home() {
           {projects
             .sort((a, b) => b.year - a.year)
             .map((project) => (
-              <Project key={project.name} {...project} />
+              <Project key={project.title} {...project} />
             ))}
         </section>
       </main>
