@@ -6,12 +6,12 @@ export default function Project({ image, title, link, description, year }) {
         src={image}
       />
       <div className="flex flex-row items-center gap-2">
-        <h1 className="text-lg font-semibold">{title}</h1>
-        <span className="rounded-full border-2 border-gray-400 text-gray-400 px-1 text-sm h-fit">
+        <h1 className="text-black">{title}</h1>
+        <span className="rounded-full border-2 border-gray-400 text-gray-400 text-sm px-1 h-fit">
           {year}
         </span>
       </div>
-      <p className="text-purple-700 text-sm">{description}</p>
+      <p className="text-purple-700">{description}</p>
     </div>
   );
 }
