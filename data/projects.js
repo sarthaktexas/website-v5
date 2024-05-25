@@ -32,7 +32,7 @@ export const projects = [
     year: 2024,
   },
   {
-    description: "Next.js, Tailwind CSS",
+    description: "Photoshop",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/newProfileItem/8ee0d789-bafa-43ed-9780-5c4bfc7e2d09.png?_a=DATAdtAAZAA0",
     link: "",
@@ -86,6 +86,7 @@ export const projects = [
     link: "",
     title: "Datacom Design",
     year: 2021,
+    collaborators: ["Mintere"],
   },
   {
     description: "Next.js, Tailwind CSS",

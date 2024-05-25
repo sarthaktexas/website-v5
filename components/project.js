@@ -1,4 +1,11 @@
-export default function Project({ image, title, link, description, year }) {
+export default function Project({
+  image,
+  title,
+  link,
+  description,
+  year,
+  collaborators,
+}) {
   return (
     <div className="flex flex-col items-start">
       <img
@@ -11,7 +18,10 @@ export default function Project({ image, title, link, description, year }) {
           {year}
         </span>
       </div>
-      <p className="text-purple-700">{description}</p>
+      <p className="text-purple-700">
+        {description}
+        {collaborators ? `, ${collaborators}` : ""}
+      </p>
     </div>
   );
 }
