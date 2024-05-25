@@ -36,7 +36,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/newProfileItem/8ee0d789-bafa-43ed-9780-5c4bfc7e2d09.png?_a=DATAdtAAZAA0",
     link: "",
-    title: "Horizon Hoodie",
+    title: "Horizon Crewneck",
     year: 2023,
   },
   {
