@@ -24,7 +24,9 @@ export default function Project({
       </div>
       <p className="text-purple-700">
         {description}
-        {collaborators ? `, ${collaborators}` : ""}
+        <span className="underline decoration-dotted hover:text-opacity-50">
+          {collaborators ? `, ${collaborators}` : ""}
+        </span>
       </p>
     </div>
   );
