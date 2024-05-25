@@ -1,6 +1,6 @@
 export const projects = [
   {
-    description: "Next.js, Tailwind CSS, ThreeJS",
+    description: "Next, Tailwind, ThreeJS",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/IG3J8UXCPGBu6n44yr5Y/902b5a85-e273-472f-aa9f-195534e3b20a.png?_a=DATAdtAAZAA0",
     link: "",
@@ -24,7 +24,7 @@ export const projects = [
     year: 2024,
   },
   {
-    description: "Next.js, Tailwind CSS",
+    description: "Next, Tailwind",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/Up8sGwlMm5VZL1MN39XW/a5bbccdc-31a8-4a7d-8795-2296fb4a1c4e.png?_a=DATAdtAAZAA0",
     link: "",
@@ -40,7 +40,7 @@ export const projects = [
     year: 2023,
   },
   {
-    description: "Next.js, Tailwind CSS",
+    description: "Next, Tailwind",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/B0KlU5dBFS8AdAY6wDK2/29112c00-f61c-4358-9128-76cb134cf3b3.png?_a=DATAdtAAZAA0",
     link: "",
@@ -48,7 +48,7 @@ export const projects = [
     year: 2022,
   },
   {
-    description: "Next.js, Tailwind CSS, Framer Motion",
+    description: "Next, Tailwind, Framer Motion",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/XhijNZd9lj9B1UXxyvOD/ccacb352-106a-45cd-80b0-9c26b17b5284.png?_a=DATAdtAAZAA0",
     link: "",
@@ -56,7 +56,7 @@ export const projects = [
     year: 2021,
   },
   {
-    description: "Next.js, Tailwind CSS, Framer Motion",
+    description: "Next, Tailwind, Framer Motion",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/e9Q8BY9gEUoLuIZFK4ed/384495e7-4e35-4139-ba18-efb317a072a4.png?_a=DATAdtAAZAA0",
     link: "",
@@ -64,7 +64,7 @@ export const projects = [
     year: 2021,
   },
   {
-    description: "Next.js, Tailwind CSS",
+    description: "Next, Tailwind",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/pages/cfukCHkaNNVQLDlwsXT9oVSkM7A3/blossom-site/ed22ea07-b6b6-4c81-b282-3a3ad4993545.png?_a=DATAdtAAZAA0",
     link: "",
@@ -72,7 +72,7 @@ export const projects = [
     year: 2024,
   },
   {
-    description: "Next.js, Tailwind CSS, Fauna",
+    description: "Next, Tailwind, Fauna",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/pages/cfukCHkaNNVQLDlwsXT9oVSkM7A3/QnmfF9XPuTjCbdxeZZb2/c7999f7e-fa80-44ec-80fd-c087b0bb0a9f.png?_a=DATAdtfiZAA0",
     link: "",
@@ -80,7 +80,7 @@ export const projects = [
     year: 2023,
   },
   {
-    description: "Next.js, Tailwind CSS, Sanity",
+    description: "Next, Tailwind, Sanity",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/UtM9n3k5MQ23GI7sbry1/d44d4ac4-5cbc-40b8-a1b3-5bf8a4816aab.png?_a=DATAdtAAZAA0",
     link: "",
@@ -89,7 +89,7 @@ export const projects = [
     collaborators: ["Mintere"],
   },
   {
-    description: "Next.js, Tailwind CSS",
+    description: "Next, Tailwind",
     image:
       "https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/cfukCHkaNNVQLDlwsXT9oVSkM7A3/newProfileItem/37a0ccd5-477e-40cf-b50e-612d238423a2.png?_a=DATAdtAAZAA0",
     link: "",
