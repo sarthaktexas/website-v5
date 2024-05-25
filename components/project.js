@@ -9,7 +9,7 @@ export default function Project({
   return (
     <div className="flex flex-col items-start">
       <img
-        className="max-h-32 w-auto object-contain md:hover:scale-[300%] transition duration-200 ease-in-out cursor-pointer mb-2"
+        className="max-h-32 w-auto object-contain md:hover:scale-[300%] md:hover:active:scale-[300%] transition duration-200 ease-in-out cursor-pointer mb-2"
         src={image}
       />
       <div className="flex flex-row items-center gap-2">

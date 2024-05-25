@@ -1,5 +1,7 @@
 import Project from "../components/project";
 import { projects } from "../data/projects";
+import Work from "../components/Work";
+import { work } from "../data/work";
 
 export default function Home() {
   return (
@@ -23,13 +25,30 @@ export default function Home() {
           </a>
           .
         </p>
-        <section className="flex flex-col md:flex-row md:flex-wrap justify-start gap-10 lg:gap-20">
-          {projects
-            .sort((a, b) => b.year - a.year)
-            .map((project) => (
-              <Project key={project.title} {...project} />
-            ))}
+        <section className="flex flex-col gap-10">
+          {/* <h1 className="text-2xl font-medium border-2 border-purple-700 text-purple-700 px-2 rounded-lg size-fit">
+            Projects
+          </h1> */}
+          <div className="flex flex-col md:flex-row md:flex-wrap justify-start gap-10 lg:gap-20">
+            {projects
+              .sort((a, b) => b.year - a.year)
+              .map((project) => (
+                <Project key={project.title} {...project} />
+              ))}
+          </div>
         </section>
+        {/* <section className="flex flex-col gap-5">
+          <h1 className="text-2xl font-medium border-2 border-purple-700 text-purple-700 px-2 rounded-lg size-fit">
+            Work
+          </h1>
+          <div className="flex flex-col md:flex-row md:flex-wrap justify-start gap-10 lg:gap-20">
+            {work
+              .sort((a, b) => b.year - a.year)
+              .map((project) => (
+                <Work key={project.title} {...project} />
+              ))}
+          </div>
+        </section> */}
       </main>
     </div>
   );
