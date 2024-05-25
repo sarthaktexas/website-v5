@@ -10,9 +10,9 @@ export default function Home() {
         <div className="flex flex-row gap-4 items-center">
           <img
             src="https://github.com/sarthaktexas.png"
-            className="size-12 rounded-full"
+            className="size-10 rounded-full"
           />
-          <h1 className="text-4xl font-semibold text-center md:mt-2">
+          <h1 className="text-3xl font-medium text-center md:mt-2">
             Sarthak Mohanty
           </h1>
         </div>
